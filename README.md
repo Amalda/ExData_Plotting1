@@ -112,3 +112,10 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+=============
+##Instructions
+
+To run the R scripts:
+- Place the dataset downloaded from the above link in your working directory
+- Resulting plots will be saved in your working directory as well
+
